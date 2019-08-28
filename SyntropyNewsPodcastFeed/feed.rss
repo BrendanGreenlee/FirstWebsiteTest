@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+   <title>Syntropy News Podcast</title>
+   <link>http://www.syntropy.online/SyntropyNewsPodcastFeed</link>
+   <description>Automated, Unbiased, free news delivered to you every day
+   </description>
+   <language>en-us</language>
+<!--
+   <atom:link href="http://podcasts.thepolyglotdeveloper.com/podcast.xml" rel="self" type="application/rss+xml"/>
+-->
+   <lastBuildDate>Tue, 02 Oct 2018 06:00:00 PDT</lastBuildDate>
+   <itunes:author>Syntropy News</itunes:author>
+   <itunes:summary>Automated, Unbiased, free news delivered to you every day</itunes:summary>
+   <itunes:subtitle>Automated, Unbiased, free news delivered to you every day</itunes:subtitle>
+   <itunes:owner>
+   <itunes:name>Syntropy News</itunes:name>
+   <itunes:email>syntropynews@gmail.com</itunes:email>
+</itunes:owner>
+   <itunes:explicit>yes</itunes:explicit>
+   <itunes:keywords>
+programming,development,web,mobile,developer
+</itunes:keywords>
+   <itunes:image href="/img/intro.jpg"/>
+   <itunes:category text="Technology"/>
+   <itunes:category text="Education"/>
+   <pubDate>Sat, 02 Jan 2016 06:00:00 PDT</pubDate>
+   <item>
+      <title>Test</title>
+      <link>/SyntropyNewsPodcastFeed/test.mp3</link>
+      <pubDate>Sun, 28 Oct 2018 17:00:00 EST</pubDate>
+      <description>Testing</description>
+      <itunes:duration>00:03</itunes:duration>
+      <itunes:summary>Testing!</itunes:summary>
+      <itunes:image href=""/>
+      <itunes:keywords>
+programming,development,web,mobile,developer
+</itunes:keywords>
+      <itunes:explicit>yes</itunes:explicit>
+   </item>
+</channel>
+</rss>

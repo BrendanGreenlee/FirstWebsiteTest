@@ -1,0 +1,44 @@
+li {
+   display: inline;
+   list-style: none;
+   border: 1px solid black;
+   margin: 5px;
+   padding: 3px;
+   font-family: Raleway;
+}
+li:hover {
+   background: #3374C2;
+   cursor: pointer;
+}
+li:active {
+   background: #FF0000;
+   cursor: pointer;
+}
+/*normal width*/
+nav { width: 100%; }
+nav ul { list-style: none; padding: 0px; margin-top: -10px; font-weight: bold; text-align: center; }
+nav ul li { display: inline-block; }
+nav ul li a { display: block; xpadding: 0px 20px; text-decoration: none; }
+a:link {
+	 color: #000000;
+	 text-decoration: none;
+	 font-weight: bold;
+}
+a:visited {
+	 color: #000000;
+	 text-decoration: none;
+	 font-weight: bold;
+}
+h1 {
+font-family: Raleway;
+text-align: center;
+}
+.bgimg1 {
+background-image: "DC1.jpeg";
+min-height: 100%;
+position: relative;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
