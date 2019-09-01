@@ -1,5 +1,0 @@
-order deny,allow
-deny from all
-allow from all
-
-AddType application/x-httpd-php .html .htm
